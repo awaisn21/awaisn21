@@ -3,21 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:8b5cf6&height=210&section=header&text=Muhammad%20Awais%20Nadeem&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Product-Focused%20Developer%20%C2%B7%20AI%20Applications%20%C2%B7%20Full-Stack%20Engineering&descAlignY=54&descSize=15" width="100%" />
 
 <a href="https://github.com/awaisn21">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=A855F7&center=true&vCenter=true&width=720&height=45&lines=Economics+%26+Mathematics+%40+LUMS+%7C+CS+Minor;Full-Stack+Engineer+%E2%80%94+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+AI-Powered+Workflow+Products;Turning+Manual+Business+Processes+Into+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=A855F7&center=true&vCenter=true&width=720&height=45&lines=Computer+Science+%40+LUMS+%7C+Class+of+2028;Full-Stack+Engineer+%E2%80%94+Next.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+AI-Powered+Workflow+Products;Turning+Manual+Business+Processes+Into+Software" alt="Typing SVG" />
 </a>
 
 <br />
 
-<img src="https://img.shields.io/badge/LUMS-Economics%20%26%20Mathematics-4F46E5?style=flat-square&labelColor=0D1117&logo=graduation-cap&logoColor=A855F7" />
-<img src="https://img.shields.io/badge/Minor-Computer%20Science-6366F1?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LUMS-Computer%20Science-4F46E5?style=flat-square&labelColor=0D1117&logo=graduationcap&logoColor=A855F7" />
 <img src="https://img.shields.io/badge/Class%20of-2028-7C3AED?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Lahore-Pakistan-8B5CF6?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=A855F7" />
 
 <br /><br />
 
-<a href="https://lumsight.me">
-  <img src="https://img.shields.io/badge/LUMSIGHT-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B" />
-</a>
 <a href="https://www.linkedin.com/in/awais-nadeem21">
   <img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" />
 </a>
@@ -28,12 +24,6 @@
   <img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" />
 </a>
 
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=awaisn21&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/awaisn21?label=FOLLOWERS&style=for-the-badge&color=6366f1&labelColor=1E1B4B&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/stars/awaisn21?label=STARS&style=for-the-badge&color=a855f7&labelColor=1E1B4B&logo=github&logoColor=white" />
-
 </div>
 
 ---
@@ -42,11 +32,11 @@
 
 I build software that removes manual work from real processes.
 
-I'm an undergraduate at the **Lahore University of Management Sciences**, studying Economics and Mathematics with a minor in Computer Science, and I spend most of my time shipping full-stack products rather than writing coursework code. My engineering centres on **TypeScript and Next.js on the front, PostgreSQL and Supabase underneath**, and increasingly on making language models behave like infrastructure — structured output you can depend on, scheduled background processing, idempotent flows that survive a retry.
+I'm a Computer Science undergraduate at the **Lahore University of Management Sciences**, and I spend most of my time shipping full-stack products rather than writing coursework code. My engineering centres on **TypeScript and Next.js on the front, PostgreSQL and Supabase underneath**, and increasingly on making language models behave like infrastructure — structured output you can depend on, scheduled background processing, idempotent flows that survive a retry.
 
 The through-line across everything I've built is the same: a process that used to run on spreadsheets, hearsay, or inbox triage now runs on a system. At **Innowi** that meant replacing a 45–90 minute manual quoting workflow with an automated portal that generates signature-ready contracts. With **LUMSight** it meant turning course-selection folklore into a searchable dataset. With **Laveor** it meant designing, building, and operating a commerce storefront end to end as the founder.
 
-Studying economics alongside engineering shapes how I scope work — I think about a feature in terms of the cost it removes and the decision it improves, not just the ticket it closes. That product-engineering instinct is what I bring to a team.
+I scope work the way a product owner would — a feature is worth building for the cost it removes and the decision it improves, not the ticket it closes. That instinct, paired with the engineering to execute it end to end, is what I bring to a team.
 
 **Open to** — Software Engineering Internships · AI / ML Engineering · Full-Stack Product Roles · Startup & Early-Stage Engineering · Open Source Collaboration
 
@@ -54,71 +44,115 @@ Studying economics alongside engineering shapes how I scope work — I think abo
 
 ## Tech Stack
 
+<br />
+
 <div align="center">
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" height="52" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117" height="26" />
+
+<br /><br /><br />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux&theme=dark" height="52" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/shadcn%2Fui-8B5CF6?style=flat-square&logo=shadcnui&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Zustand-6366F1?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Recharts-A855F7?style=flat-square&logo=chartdotjs&logoColor=white&labelColor=0D1117" height="26" />
+
+<br /><br /><br />
+
+### Backend &amp; Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,redis&theme=dark" height="52" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Server%20Actions-4F46E5?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117" height="26" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/NextAuth.js-7C3AED?style=flat-square&logo=auth0&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Row%20Level%20Security-3ECF8E?style=flat-square&logo=supabase&logoColor=black&labelColor=0D1117" height="26" />
+
+<br /><br /><br />
+
+### Cloud, DevOps &amp; Tooling
+
+<img src="https://skillicons.dev/icons?i=vercel,docker,githubactions,git,github,figma&theme=dark" height="52" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cron%20Jobs-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white&labelColor=0D1117" height="26" />
+
+<br /><br /><br />
+
+### Integrations &amp; Platforms
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Gmail%20API-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0D1117" height="26" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/PandaDoc-40BA8D?style=flat-square&logo=pandadoc&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white&labelColor=0D1117" height="26" />
+&nbsp;
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white&labelColor=0D1117" height="26" />
+
 <br />
-<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117" />
-
-<br />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux&theme=dark" />
-<br />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-8B5CF6?style=flat-square&logo=shadcnui&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Zustand-6366F1?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Recharts-A855F7?style=flat-square&logo=chartdotjs&logoColor=white&labelColor=0D1117" />
-
-<br />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,redis&theme=dark" />
-<br />
-<img src="https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Server%20Actions-4F46E5?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/NextAuth.js-7C3AED?style=flat-square&logo=auth0&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Row%20Level%20Security-3ECF8E?style=flat-square&logo=supabase&logoColor=black&labelColor=0D1117" />
-
-<br />
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=vercel,docker,githubactions,git,github,figma&theme=dark" />
-<br />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Cron%20Jobs-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white&labelColor=0D1117" />
-
-<br />
-
-**Integrations & Platforms**
-
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Gmail%20API-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PandaDoc-40BA8D?style=flat-square&logo=pandadoc&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white&labelColor=0D1117" />
 
 </div>
+
+<br />
 
 ---
 
@@ -263,7 +297,7 @@ Founded and operate a premium leather goods brand, and built its commerce platfo
 
 | Recognition | Details |
 | :--- | :--- |
-| **Undergraduate Admission — LUMS** | Admitted to the Lahore University of Management Sciences to read Economics and Mathematics with a Computer Science minor; Class of 2028 |
+| **Undergraduate Admission — LUMS** | Admitted to the Lahore University of Management Sciences to read Computer Science; Class of 2028 |
 | **Shipped Production System as an Intern** | Delivered the Innowi ISO Partner Portal end to end, replacing a manual 45–90 minute per-deal quoting process with automated pricing, approval routing, and contract generation |
 | **Founder — Laveor** | Launched and operate a live commerce brand, building the storefront, checkout integration, and product content personally |
 | **Built LUMSight Solo** | Designed, engineered, and seeded a full review platform independently — 405 reviews across 127 course sections, launching to a target of 200 users |
@@ -272,62 +306,13 @@ Founded and operate a premium leather goods brand, and built its commerce platfo
 
 </div>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=awaisn21&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=8B5CF6&ring_color=6366F1" />
-<img width="49%" src="https://streak-stats.demolab.com?user=awaisn21&hide_border=true&background=0D1117&stroke=1F2335&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-<br /><br />
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisn21&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=awaisn21&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=awaisn21&bg_color=0D1117&color=A855F7&line=8B5CF6&point=C084FC&area=true&area_color=6366F1&hide_border=true&title_color=A855F7&custom_title=Contribution%20Graph" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awaisn21/awaisn21/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awaisn21/awaisn21/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/awaisn21/awaisn21/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
 name: Muhammad Awais Nadeem
 role: Product-Focused Developer
 based_in: Lahore, Pakistan
-studying: BSc Economics & Mathematics, CS Minor — LUMS '28
+studying: BS Computer Science — LUMS '28
 
 learning:
   - Retrieval-Augmented Generation and embedding pipelines
@@ -343,7 +328,7 @@ building:
 exploring:
   - Applied AI as product infrastructure, not as a feature
   - Workflow automation for manual business processes
-  - The intersection of economics, product strategy and engineering
+  - The intersection of product strategy, business and engineering
   - Entrepreneurship and early-stage company building
 
 open_to:
@@ -370,14 +355,6 @@ open_to:
 &nbsp;
 <a href="https://github.com/awaisn21">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" height="36" />
-</a>
-&nbsp;
-<a href="https://lumsight.me">
-  <img src="https://img.shields.io/badge/LUMSight-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B" height="36" />
-</a>
-&nbsp;
-<a href="https://laveor.com">
-  <img src="https://img.shields.io/badge/Laveor-1E1B4B?style=for-the-badge&logo=shopify&logoColor=7AB55C&labelColor=1E1B4B" height="36" />
 </a>
 
 </div>
