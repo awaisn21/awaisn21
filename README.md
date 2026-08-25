@@ -44,115 +44,13 @@ I scope work the way a product owner would — a feature is worth building for t
 
 ## Tech Stack
 
-<br />
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" height="52" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117" height="26" />
-
-<br /><br /><br />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux&theme=dark" height="52" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/shadcn%2Fui-8B5CF6?style=flat-square&logo=shadcnui&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Zustand-6366F1?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Recharts-A855F7?style=flat-square&logo=chartdotjs&logoColor=white&labelColor=0D1117" height="26" />
-
-<br /><br /><br />
-
-### Backend &amp; Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,redis&theme=dark" height="52" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Next.js%20API%20Routes-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Server%20Actions-4F46E5?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0D1117" height="26" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/NextAuth.js-7C3AED?style=flat-square&logo=auth0&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Row%20Level%20Security-3ECF8E?style=flat-square&logo=supabase&logoColor=black&labelColor=0D1117" height="26" />
-
-<br /><br /><br />
-
-### Cloud, DevOps &amp; Tooling
-
-<img src="https://skillicons.dev/icons?i=vercel,docker,githubactions,git,github,figma&theme=dark" height="52" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Cron%20Jobs-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white&labelColor=0D1117" height="26" />
-
-<br /><br /><br />
-
-### Integrations &amp; Platforms
-
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Gmail%20API-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0D1117" height="26" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/PandaDoc-40BA8D?style=flat-square&logo=pandadoc&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white&labelColor=0D1117" height="26" />
-&nbsp;
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white&labelColor=0D1117" height="26" />
-
-<br />
-
-</div>
-
-<br />
+| | |
+| ---: | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=0D1117&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0D1117&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&labelColor=0D1117&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&labelColor=0D1117&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&labelColor=0D1117&logo=css3&logoColor=white" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=0D1117&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&labelColor=0D1117&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&labelColor=0D1117&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&labelColor=0D1117&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&labelColor=0D1117&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&labelColor=0D1117&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn/ui-8B5CF6?style=flat-square&labelColor=0D1117&logo=shadcnui&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&labelColor=0D1117&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-6366F1?style=flat-square&labelColor=0D1117&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&labelColor=0D1117&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Recharts-A855F7?style=flat-square&labelColor=0D1117&logo=chartdotjs&logoColor=white" /> |
+| **Backend &amp; Databases** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&labelColor=0D1117&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js%20API%20Routes-4F46E5?style=flat-square&labelColor=0D1117&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Server%20Actions-6366F1?style=flat-square&labelColor=0D1117&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&labelColor=0D1117&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&labelColor=0D1117&logo=supabase&logoColor=black" /> <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=black" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&labelColor=0D1117&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/BullMQ-B91C1C?style=flat-square&labelColor=0D1117&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/NextAuth.js-7C3AED?style=flat-square&labelColor=0D1117&logo=auth0&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=flat-square&labelColor=0D1117&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Row%20Level%20Security-3ECF8E?style=flat-square&labelColor=0D1117&logo=supabase&logoColor=black" /> |
+| **Cloud, DevOps &amp; Tooling** | <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&labelColor=0D1117&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&labelColor=0D1117&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0D1117&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&labelColor=0D1117&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&labelColor=0D1117&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&labelColor=0D1117&logo=upstash&logoColor=black" /> <img src="https://img.shields.io/badge/Cron%20Jobs-8B5CF6?style=flat-square&labelColor=0D1117&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&labelColor=0D1117&logo=vitest&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&labelColor=0D1117&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&labelColor=0D1117&logo=pnpm&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&labelColor=0D1117&logo=figma&logoColor=white" /> |
+| **Integrations &amp; Platforms** | <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&labelColor=0D1117&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail%20API-EA4335?style=flat-square&labelColor=0D1117&logo=gmail&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat-square&labelColor=0D1117&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&labelColor=0D1117&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&labelColor=0D1117&logo=shopify&logoColor=white" /> <img src="https://img.shields.io/badge/PandaDoc-40BA8D?style=flat-square&labelColor=0D1117&logo=pandadoc&logoColor=white" /> <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&labelColor=0D1117&logo=pusher&logoColor=white" /> <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&labelColor=0D1117&logo=resend&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&labelColor=0D1117&logo=groq&logoColor=white" /> |
 
 ---
 
