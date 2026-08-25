@@ -185,13 +185,13 @@ Course registration at LUMS runs on hearsay. Every enrollment cycle, students sc
 | :--- | :--- |
 | **Role** | Sole builder — designed and built the full platform independently |
 | **Stack** | Vite, React, TypeScript, Supabase, Resend (transactional email), Netlify, custom domain |
-| **Scale** | 405 seeded reviews across 127 course sections · catalogue reconciliation added 243 courses and 69 instructors · 711 rows of master data |
+| **Scale** | 405 seeded reviews across 127 course sections, built on a reconciled catalogue of 711 rows — 243 new courses and 69 new instructors resolved and deduplicated |
 | **Performance** | Static-first Vite build served from CDN edge; Supabase-backed queries against a normalised, deduplicated course/instructor schema |
 | **Security** | Supabase authentication with policy-enforced access; review integrity guarded at the data layer rather than the client |
 | **Impact** | Currently in pre-deployment testing, targeting 200 users at launch |
 | **Repository** | [lumsight.me](https://lumsight.me/) |
 
-The harder half of this project was never the review form. Before a single review could point at the right thing, the university's course catalogue had to be reconciled into clean master data — courses deduplicated, instructors resolved across inconsistent naming, and sections mapped to the right offering. That reconciliation pass produced 711 rows of trustworthy reference data, and it is the reason a review in LUMSight attaches to a real, specific section rather than a free-text guess.
+The harder half of this project was never the review form — it was the data underneath it. Before a single review could point at the right thing, the LUMS course catalogue had to be reconciled into clean master data: courses deduplicated, instructors resolved across inconsistent naming, and sections mapped to the offering they actually belong to. That pass added **243 courses and 69 instructors**, producing **711 rows** of trustworthy reference data. It is the reason a review in LUMSight attaches to a real, specific section rather than a free-text guess — and the reason the platform could launch with 405 seeded reviews that all resolve correctly.
 
 </details>
 
@@ -297,14 +297,13 @@ Founded and operate a premium leather goods brand, and built its commerce platfo
 
 | Recognition | Details |
 | :--- | :--- |
-| **Undergraduate Admission — LUMS** | Admitted to the Lahore University of Management Sciences to read Computer Science; Class of 2028 |
 | **Shipped Production System as an Intern** | Delivered the Innowi ISO Partner Portal end to end, replacing a manual 45–90 minute per-deal quoting process with automated pricing, approval routing, and contract generation |
 | **Founder — Laveor** | Launched and operate a live commerce brand, building the storefront, checkout integration, and product content personally |
 | **Built LUMSight Solo** | Designed, engineered, and seeded a full review platform independently — 405 reviews across 127 course sections, launching to a target of 200 users |
-| **Catalogue Data Reconciliation** | Reconciled the LUMS course catalogue into clean master data — 243 new courses, 69 new instructors, 711 rows resolved and deduplicated |
-| **Multi-Product Engineering Range** | Four production or near-production systems spanning AI application engineering, B2B workflow automation, e-commerce, and consumer web |
 
 </div>
+
+---
 
 ## Current Focus
 
